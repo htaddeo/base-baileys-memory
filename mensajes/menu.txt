@@ -1,0 +1,5 @@
+Menu de opciones disponibles -> Somisa
+1. Quiero ver el menu de la cantina en PDF 
+2. Quiero hacer una consulta
+3. Quiero que me contacten del club
+0. Volver al inicio
