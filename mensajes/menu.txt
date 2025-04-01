@@ -1,5 +1,12 @@
-Menu de opciones disponibles -> Somisa
-1. Quiero ver el menu de la cantina en PDF 
-2. Quiero hacer una consulta
-3. Quiero que me contacten del club
-0. Volver al inicio
+Menu de opciones
+
+1. Historia del Club
+2. Que necesito para Asociarme?
+3. Alquiler de Quinchos
+4. Sector Náutico
+5. Recepción de Notas
+6. Valor Cuota
+7. Quiero ver el menu de la cantina en PDF
+8. Quiero hacer otra  consulta 
+9. Quiero que me contacten del club
+0. Volver al inicio 
