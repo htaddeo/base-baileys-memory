@@ -1,0 +1,276 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493364519629@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB063DA6A5A203A0EAFBC',
+    participant: undefined
+  },
+  messageTimestamp: 1743514873,
+  pushName: 'Hernan',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '5493364519629'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc3aed72-dc27-48d0-815e-98638c60baf0',
+  keyword: 'key_e1758535-51fc-403c-bfb1-205dfe53d43a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a65544996210c870d55d11a2de8dfec5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493364519629@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09DB791429B67817F8C',
+    participant: undefined
+  },
+  messageTimestamp: 1743514877,
+  pushName: 'Hernan',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5493364519629'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc3aed72-dc27-48d0-815e-98638c60baf0',
+  keyword: 'key_e1758535-51fc-403c-bfb1-205dfe53d43a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a65544996210c870d55d11a2de8dfec5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493364519629@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E9BFD7499F349656AB',
+    participant: undefined
+  },
+  messageTimestamp: 1743514883,
+  pushName: 'Hernan',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5493364519629'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c8fdd22d-5a7d-4090-b603-b28b0d359f1b',
+  keyword: 'key_afe5ce54-21db-4680-93ac-0f08cd965c46',
+  answer: 'Decime, en que te puedo ayudar sobre la Historia del Club?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '301e87d040041085a92967e40aaba567'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493364519629@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04B8BCF1704BEFE01EC',
+    participant: undefined
+  },
+  messageTimestamp: 1743514889,
+  pushName: 'Hernan',
+  broadcast: false,
+  message: Message {
+    conversation: 'historia del club',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'historia del club',
+  from: '5493364519629'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493364519629@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB044F92EAE6156C4D78F',
+    participant: undefined
+  },
+  messageTimestamp: 1743514901,
+  pushName: 'Hernan',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5493364519629'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc3aed72-dc27-48d0-815e-98638c60baf0',
+  keyword: 'key_e1758535-51fc-403c-bfb1-205dfe53d43a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a65544996210c870d55d11a2de8dfec5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493364519629@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06BD9F351B83E00CEE9',
+    participant: undefined
+  },
+  messageTimestamp: 1743514905,
+  pushName: 'Hernan',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '5493364519629'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5f3303cb-1b49-41ab-a56c-45ccb042d019',
+  keyword: 'key_0567227b-5858-4801-8d55-8adc2278006b',
+  answer: 'Decime, en que te puedo ayudar sobre el sector Nautico',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '35f1bdc10ba15b76acaf4c51bcc3e792'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493364519629@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05BECD6F849B9894469',
+    participant: undefined
+  },
+  messageTimestamp: 1743514911,
+  pushName: 'Hernan',
+  broadcast: false,
+  message: Message {
+    conversation: 'valores nautico',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'valores nautico',
+  from: '5493364519629'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493364519629@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03180334F1D16C1EEF6',
+    participant: undefined
+  },
+  messageTimestamp: 1743514919,
+  pushName: 'Hernan',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5493364519629'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc3aed72-dc27-48d0-815e-98638c60baf0',
+  keyword: 'key_e1758535-51fc-403c-bfb1-205dfe53d43a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a65544996210c870d55d11a2de8dfec5'
+}
