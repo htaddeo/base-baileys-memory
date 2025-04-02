@@ -48,9 +48,10 @@ const flowPrincipal = addKeyword(EVENTS.WELCOME) //Este es el flujo por donde pa
 
         //Cuarto, el usuario quiere abrir el menu?
         if (ctx.body.length > 8 || (!ctx.body.toLowerCase().includes("menu") && ctx.body.length < 8)) {
-            return ctxFn.gotoFlow(gptFlow) //No, pregunto algo directamente
-        } else {
-            return ctxFn.gotoFlow(menuFlow) //Si, quiere abrir el menu
+ //           return ctxFn.gotoFlow(gptFlow) //No, pregunto algo directamente
+          return ctxFn.gotoFlow(menuFlow) //No, pregunto algo directamente
+       } else {
+           return ctxFn.gotoFlow(menuFlow) //Si, quiere abrir el menu
         }
     })
 
