@@ -1,0 +1,20 @@
+¿En qué puedo ayudarte?
+
+Menu de opciones
+
+A. 📄 Historia del Club
+B. 🏦 Alias del Club
+C. 💰 Valores de la Cuota
+D. 💰 Valor de Entrada a no socios
+E. 🚻 Grupo familiar
+F. 🕛 Horarios de atencion
+G. 🏋️ Horarios  de gimnasio
+H. 🏊‍♀️ Horario de pileta climatizada
+I. 🚤 Guarderia
+J. 🗂️ Fichas de la luz de canchas
+K. ⛺ Carpas y Casas rodantes
+L. 💳 Becas municipales
+M. 🏘️ Quinchos
+N. 🏆 Deportes
+O. 🧢 Tienda Oficial 
+Z. ⬅️ Salir
