@@ -1,12 +1,20 @@
+¿En qué puedo ayudarte?
+
 Menu de opciones
 
-1. Historia del Club
-2. Que necesito para Asociarme?
-3. Alquiler de Quinchos
-4. Sector Náutico
-5. Recepción de Notas
-6. Valor Cuota
-7. Quiero ver el menu de la cantina en PDF
-8. Quiero hacer otra  consulta 
-9. Quiero que me contacten del club
-0. Volver al inicio 
+A. 📄 Historia del Club
+B. 🏦 Alias del Club
+C. 💰 Valores de la Cuota
+D. 💰 Valor de Entrada a no socios
+E. 🚻 Grupo familiar
+F. 🕛 Horarios de atencion
+G. 🏋️ Horarios  de gimnasio
+H. 🏊‍♀️ Horario de pileta climatizada
+I. 🚤 Guarderia
+J. 🗂️ Fichas de la luz de canchas
+K. ⛺ Carpas y Casas rodantes
+L. 💳 Becas municipales
+M. 🏘️ Quinchos
+N. 🏆 Deportes
+O. 🧢 Tienda Oficial 
+Z. ⬅️ Salir
