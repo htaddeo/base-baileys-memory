@@ -174,7 +174,7 @@ const menuFlow = addKeyword(EVENTS.ACTION)
                 return ctxFn.fallBack("No elegiste una opcion correcta. Elegi A,B,C,D,E,F,G,H,I,J,K,L,M,N,O ")
             }
             if (ctx.body === "Z") {
-                return ctxFn.endFlow("Volviendo al menu principal. Escribi 'Menu' para volver a ver las opciones")
+                return ctxFn.endFlow("¡Gracias por estar con nosotros! 😊 Esperamos haberte ayudado y que vuelvas pronto. Si alguna vez necesitas algo más, aquí estaremos para ti. ¡Que tengas un gran día! 🌟. Escribi 'Menu' para volver a ver las opciones")
             }
         }, [flow1, flow2, flow3, flow4, flow5, flow6, flow7, flow8, flow9, flow10, flow11, flow12, flow13, flow14, flow15 ])
 module.exports = { menuFlow };
