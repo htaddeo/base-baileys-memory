@@ -12,8 +12,8 @@ const menuText = fs.readFileSync(pathMenu, 'utf8');
 const createFlow = (keyword, answers) => 
     addKeyword(keyword)
         .addAnswer(answers.join("\n"))
-        .addAnswer("A. ⬅️ Menú principal")
-        .addAnswer("B. ⬅️ Salir")
+        .addAnswer("*a*. ⬅️ Menú principal")
+//      .addAnswer("B. ⬅️ Salir")
         .addAction(async (ctx, ctxFn) => {
             if (ctx.body.toUpperCase().trim() === "B") {
                 return ctxFn.endFlow("Gracias por tu consulta! 😊\nEscribí 'Menú' para volver.");
@@ -27,19 +27,19 @@ const flows = {
     "B": createFlow("B", ["🏦 *Alias del Club:* SOMISA-1950"]),
   "C": createFlow("C", [
         "💰 *Valores de cuota social:*",
-        "🔹 ACTIVOS $40,000",
-        "🔹 CAD.ACTIVO (12 a 17 años) $37,300",
-        "🔹 CAD. MENOR (6 a 11 años) $34,700",
-        "🔹 JUBILADOS $34,700",
-        "🔹 GRUPO FLIAR $122,700",
+        "🔹 ACTIVOS $40.000",
+        "🔹 CAD.ACTIVO (12 a 17 años) $37.300",
+        "🔹 CAD. MENOR (6 a 11 años) $34.700",
+        "🔹 JUBILADOS $34.700",
+        "🔹 GRUPO FLIAR $122.700",
         "📆 Fecha de pago: del 01 al 20 de cada mes.",
         "💳 Tarjeta de crédito: 1 a 3 cuotas +11.41%, 6 cuotas +20.84%"
     ]),
     "D": createFlow("D", [
         "🎟️ *Valores de entrada a NO SOCIOS*",
-        "🔹 Mayores de 12 años: $7,000",
-        "🔹 Niños (6-11 años) y jubilados: $6,000",
-        "🚗 Estacionamiento: $3,000 por auto"
+        "🔹 Mayores de 12 años: $7.000",
+        "🔹 Niños (6-11 años) y jubilados: $6.000",
+        "🚗 Estacionamiento: $3.000 por auto"
     ]),
     "E": createFlow("E", ["👨‍👩‍👧‍👦 *Grupo familiar:* Padre, madre y 2 hijos (6-17 años)."]),
     "F": createFlow("F", [
@@ -54,18 +54,18 @@ const flows = {
         "⚠️ Feriados nacionales: CERRADO"
     ]),
     "H": createFlow("H", ["🏊 *Horario Pileta Climatizada*", "🔹 Lunes a Viernes: 07:00 - 21:00", "⚠️ Feriados nacionales: CERRADO"]),
-    "I": createFlow("I", ["🗄️ *Guardería*", "🔹 Box compartido: $45,000/mes", "🔹 Box individual: $50,000/mes"]),
+    "I": createFlow("I", ["🗄️ *Guardería*", "🔹 Box compartido: $45.000/mes", "🔹 Box individual: $50.000/mes"]),
     "J": createFlow("J", [
         "💡 *Fichas de Luz Canchas*",
-        "⚽ Fútbol: $15,000",
-        "🎾 Tenis: $4,000",
-        "🏓 Pádel: $4,000"
+        "⚽ Fútbol: $15.000",
+        "🎾 Tenis: $4.000",
+        "🏓 Pádel: $4.000"
     ]),
     "K": createFlow("K", [
         "🏕️ *Carpas y Casas Rodantes*",
-        "🔹 Socios: $5,000/noche",
-        "🔹 No socios: $15,000/noche + Entrada $7,000 + Auto $3,000",
-        "🚐 Casa Rodante No Socio: $18,000"
+        "🔹 Socios: $5.000/noche",
+        "🔹 No socios: $15.000/noche + Entrada $7.000 + Auto $3.000",
+        "🚐 Casa Rodante No Socio: $18.000"
     ]),
    "L": createFlow("L", [
         "🎓 *Becas Municipales*",
@@ -80,12 +80,22 @@ const flows = {
         "🔹 Tejo: Alquiler (Info en secretaría)"
     ]),
     "N": createFlow("N", ["🏅 *Deportes:* Consultar en secretaría."]),
-    "O": createFlow("O", [
+"O": createFlow("O", [
         "🛍️ *Showroom*",
         "📅 Lunes, Miércoles y Viernes: 16:30 - 20:30",
         "📅 Martes, Jueves y Sábados: 08:30 - 12:30",
         "🚫 Domingo y Feriados: CERRADO"
-    ])
+    ]),
+    "P": createFlow("P", [
+        "🌐 *Reservas en línea*",
+        "📌 Puedes realizar tu reserva en el siguiente enlace:",
+        "🔗 www.tureservasomisa.com"
+    ]),    
+    "Q": createFlow("Q", [
+        "📲 *Chatear por WhatsApp*",
+        "Para comunicarte con nosotros por WhatsApp, haz clic en el siguiente enlace:",
+        "👉 https://wa.me/5493364566412"
+    ]), 
 };
 
 // Menú principal
