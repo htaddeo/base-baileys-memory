@@ -2,19 +2,22 @@
 
 Menu de opciones
 
-A. 📄 Historia del Club
-B. 🏦 Alias del Club
-C. 💰 Valores de la Cuota
-D. 💰 Valor de Entrada a no socios
-E. 🚻 Grupo familiar
-F. 🕛 Horarios de atencion
-G. 🏋️ Horarios  de gimnasio
-H. 🏊‍♀️ Horario de pileta climatizada
-I. 🚤 Guarderia
-J. 🗂️ Fichas de la luz de canchas
-K. ⛺ Carpas y Casas rodantes
-L. 💳 Becas municipales
-M. 🏘️ Quinchos
-N. 🏆 Deportes
-O. 🧢 Tienda Oficial 
-Z. ⬅️ Salir
+*a*. 📄 Historia del Club
+*b*. 🏦 Alias del Club
+*c*. 💰 Valores de la Cuota
+*d*. 💰 Valor de Entrada a no socios
+*e*. 🚻 Grupo familiar
+*f*. 🕛 Horarios de atencion
+*g*. 🏋️ Horarios  de gimnasio
+*h*. 🏊‍♀️ Horario de pileta climatizada
+*i*. 🚤 Guarderia
+*j*. 🗂️ Fichas de la luz de canchas
+*k*. ⛺ Carpas y Casas rodantes
+*l*. 💳 Becas municipales
+*m*. 🏘️ Quinchos
+*n*. 🏆 Deportes
+*o*. 🧢 Tienda Oficial 
+*p*. 🎾 Reserva Tenis/Padel 
+*q*. 📲 Contacto Secretaria
+*z*. ⬅️ Salir
+
