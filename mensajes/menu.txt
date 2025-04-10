@@ -19,5 +19,6 @@ Menu de opciones
 *o*. 🧢 Tienda Oficial 
 *p*. 🎾 Reserva Tenis/Padel 
 *q*. 📲 Contacto Secretaria
+*r*. 📍 Contacto Secretaria
 *z*. ⬅️ Salir
 
