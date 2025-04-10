@@ -19,6 +19,6 @@ Menu de opciones
 *o*. 🧢 Tienda Oficial 
 *p*. 🎾 Reserva Tenis/Padel 
 *q*. 📲 Contacto Secretaria
-*r*. 📍 Contacto Secretaria
+*r*. 📍 Ubicacion Club Somisa
 *z*. ⬅️ Salir
 
