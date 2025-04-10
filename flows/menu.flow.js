@@ -96,6 +96,12 @@ const flows = {
         "Para comunicarte con nosotros por WhatsApp, haz clic en el siguiente enlace:",
         "👉 https://wa.me/5493364566412"
     ]), 
+    "R": createFlow("R", [
+        "📍 *Ubicación del Club Somisa*",
+        "Los Ceibos 1950, B2900 San Nicolás de Los Arroyos, Provincia de Buenos Aires",
+        "👉 [Abrir en Google Maps](https://maps.app.goo.gl/APB8zLq4um9dszbr9)"
+    ]), 
+
 };
 
 // Menú principal
