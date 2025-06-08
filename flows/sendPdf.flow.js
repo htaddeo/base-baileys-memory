@@ -7,7 +7,7 @@ const sendPdfFlow = addKeyword(EVENTS.ACTION)
         return await ctxFn.flowDynamic([
             {
                 body: "Pdf",
-                media: "http://localhost:4000/pdfs/restaurant-menu.pdf",
+                media: "http://localhost:4000/pdf/Deportes.pdf",
             }
         ]);
     });

@@ -27,11 +27,11 @@ const flows = {
     "B": createFlow("B", ["🏦 *Alias del Club:* SOMISA-1950"]),
   "C": createFlow("C", [
         "💰 *Valores de cuota social:*",
-        "🔹 ACTIVOS $40.000",
-        "🔹 CAD.ACTIVO (12 a 17 años) $37.300",
-        "🔹 CAD. MENOR (6 a 11 años) $34.700",
-        "🔹 JUBILADOS $34.700",
-        "🔹 GRUPO FLIAR $122.700",
+        "🔹 ACTIVOS $45.000",
+        "🔹 CAD.ACTIVO (12 a 17 años) $42.000",
+        "🔹 CAD. MENOR (6 a 11 años) $39.000",
+        "🔹 JUBILADOS $39.000",
+        "🔹 GRUPO FLIAR $138.000",
         "📆 Fecha de pago: del 01 al 20 de cada mes.",
         "💳 Tarjeta de crédito: 1 a 3 cuotas +11.41%, 6 cuotas +20.84%"
     ]),
@@ -79,8 +79,14 @@ const flows = {
         "🔹 Tenis: Alquiler tarde/noche (Info en secretaría)",
         "🔹 Tejo: Alquiler (Info en secretaría)"
     ]),
-    "N": createFlow("N", ["🏅 *Deportes:* Consultar en secretaría."]),
-"O": createFlow("O", [
+
+
+    "N": addKeyword("R")
+    .addAnswer("📄 Horarios de Deportes:", {
+        media: "http://localhost:4000/pdfs/Deportes.pdf" // 🔁 cambiá por la URL real
+    
+    }),
+    "O": createFlow("O", [
         "🛍️ *Showroom*",
         "📅 Lunes, Miércoles y Viernes: 16:30 - 20:30",
         "📅 Martes, Jueves y Sábados: 08:30 - 12:30",
@@ -103,6 +109,7 @@ const flows = {
     ]), 
 
 };
+
 
 // Menú principal
 const menuFlow = addKeyword(EVENTS.ACTION)
