@@ -15,7 +15,7 @@ Menu de opciones
 *k*. ⛺ Carpas y Casas rodantes
 *l*. 💳 Becas municipales
 *m*. 🏘️ Quinchos
-*n*. 🏆 Deportes
+*n*. 🏆 Deportes Horarios
 *o*. 🧢 Tienda Oficial 
 *p*. 🎾 Reserva Tenis/Padel 
 *q*. 📲 Contacto Secretaria
