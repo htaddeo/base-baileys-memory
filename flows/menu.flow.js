@@ -27,11 +27,11 @@ const flows = {
     "B": createFlow("B", ["🏦 *Alias del Club:* SOMISA-1950"]),
   "C": createFlow("C", [
         "💰 *Valores de cuota social:*",
-        "🔹 ACTIVOS $45.000",
-        "🔹 CAD.ACTIVO (12 a 17 años) $42.000",
-        "🔹 CAD. MENOR (6 a 11 años) $39.000",
-        "🔹 JUBILADOS $39.000",
-        "🔹 GRUPO FLIAR $138.000",
+        "🔹 ACTIVOS $50.000",
+        "🔹 CAD.ACTIVO (12 a 17 años) $47.000",
+        "🔹 CAD. MENOR (6 a 11 años) $44.000",
+        "🔹 JUBILADOS $44.000",
+        "🔹 GRUPO FLIAR $154.000",
         "📆 Fecha de pago: del 01 al 20 de cada mes.",
         "💳 Tarjeta de crédito: 1 a 3 cuotas +11.41%, 6 cuotas +20.84%"
     ]),
