@@ -77,10 +77,27 @@ const flows = {
         "🏠 *Quinchos*",
         "🔹 Pileta: Uso común socios",
         "🔹 Tenis: Alquiler tarde/noche (Info en secretaría)",
-        "🔹 Tejo: Alquiler (Info en secretaría)"
+        "🔹 Tejo: Alquiler (Info en secretaría)",
+        "🔹 *Quincho de Náutico:*",
+        "",
+        "▪️ De martes a jueves de 18 a 00 hs",
+        "  Valor: $50.000 (solo días hábiles)",
+        "",
+        "▪️ Viernes de 18 a 02 hs",
+        "▪️ Sábados, domingos y feriados:",
+        "   - Turno mañana: 10 a 17.30 hs",
+        "   - Turno noche: 19.30 a 02.00 hs",
+        "  Valor: $200.000",
+        "",
+        "▪️ Capacidad: 48 sillas",
+        "",
+        "⚠️ Fines de semana: eventos de hasta 60-70 personas.",
+        "Las mesas y sillas extras corren por cuenta del inquilino.",
+        "",
+        "⚠️ No se puede pegar decoraciones.",
+        "⚠️ Siempre habrá un encargado hasta la hora de cierre.",
+
     ]),
-
-
     "N": addKeyword("R")
     .addAnswer("📄 Horarios de Deportes:", {
         media: "http://localhost:4000/pdfs/Deportes.pdf" // 🔁 cambiá por la URL real
