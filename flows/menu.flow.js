@@ -49,11 +49,11 @@ const flows = {
     ]),
     "G": createFlow("G", [
         "🏋️ *Horario de Gimnasio*",
-        "🔹 Lunes a Viernes: 07:00 - 12:00 y 17:00 - 21:00",
+        "🔹 Lunes a Viernes: 08:00 - 22:00",
         "🔹 Sábados: 08:00 - 12:00",
         "⚠️ Feriados nacionales: CERRADO"
     ]),
-    "H": createFlow("H", ["🏊 *Horario Pileta Climatizada*", "🔹 Lunes a Viernes: 07:00 - 21:00", "⚠️ Feriados nacionales: CERRADO"]),
+    "H": createFlow("H", ["🏊 *Horario Pileta Climatizada*", "🔹 Lunes a Viernes: 07:00 - 21:00" , "🔹 Sabado: 08:00 - 11:00" , "⚠️ Feriados nacionales: CERRADO", "⚠️ Telefono Pileta: 3364 074795" ]),
     "I": createFlow("I", ["🗄️ *Guardería*", "🔹 Box compartido: $45.000/mes", "🔹 Box individual: $50.000/mes"]),
     "J": createFlow("J", [
         "💡 *Fichas de Luz Canchas*",
