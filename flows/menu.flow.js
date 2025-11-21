@@ -134,6 +134,21 @@ const flows = {
         "Los Ceibos 1950, B2900 San Nicolás de Los Arroyos, Provincia de Buenos Aires",
         "👉 [Abrir en Google Maps](https://maps.app.goo.gl/APB8zLq4um9dszbr9)"
     ]), 
+    "S": addKeyword("R")
+    .addAnswer("📄 Valores de Porteria:", {
+        media: "http://localhost:4000/pdfs/Porteria.pdf" // 🔁 cambiá por la URL real
+    
+    }),
+    "T": addKeyword("R")
+    .addAnswer("📄 Precios No Socios:", {
+        media: "http://localhost:4000/pdfs/Precios.pdf" // 🔁 cambiá por la URL real
+    
+    }), 
+    "U": addKeyword("R")
+    .addAnswer("📄 Temporada 2026:", {
+        media: "http://localhost:4000/pdfs/Temporada.pdf" // 🔁 cambiá por la URL real
+    
+    }),    
 
 };
 
