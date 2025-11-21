@@ -20,5 +20,8 @@ Menu de opciones
 *p*. 🎾 Reserva Tenis/Padel 
 *q*. 📲 Contacto Secretaria
 *r*. 📍 Ubicacion Club Somisa
+*s*. 💰 Valores de Porteria 
+*t*. 💰 Precios No Socios
+*u*. 💰 Temporada 2026
 *z*. ⬅️ Salir
 
