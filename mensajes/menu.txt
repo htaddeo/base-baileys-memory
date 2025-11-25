@@ -9,12 +9,9 @@ Menu de opciones
 *e*. 🚻 Grupo familiar
 *f*. 🕛 Horarios de atencion
 *g*. 🏋️ Horarios  de gimnasio
-*h*. 🏊‍♀️ Horario de pileta climatizada
-*i*. 🚤 Guarderia
 *j*. 🗂️ Fichas de la luz de canchas
 *k*. ⛺ Carpas y Casas rodantes
 *l*. 💳 Becas municipales
-*m*. 🏘️ Quinchos
 *n*. 🏆 Deportes Horarios
 *o*. 🧢 Tienda Oficial 
 *p*. 🎾 Reserva Tenis/Padel 
