@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 bot_sessions
 <<<<<<< HEAD
@@ -5,3 +6,12 @@ bot_sessions
 =======
 .env
 >>>>>>> 4486b4cd3f2d7b5cabbba495f526255f70effb77
+=======
+node_modules
+bot_sessions
+<<<<<<< HEAD
+.env
+=======
+.env
+>>>>>>> 4486b4cd3f2d7b5cabbba495f526255f70effb77
+>>>>>>> f4067e01f8f544083992ea82a58f604c2b469139
